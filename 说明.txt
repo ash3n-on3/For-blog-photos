@@ -1,0 +1,5 @@
+1、运行cmd，输入  D:  后敲回车
+
+2、输入命令：nmrpflash.exe -L ，查询网卡编号
+
+3、nmrpflash.exe -i net2 -a 192.168.1.1 -f R6700-V1.0.1.16_10.0.30.chk
